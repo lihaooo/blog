@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pandalee.jp/"/>
-  <updated>2020-06-27T17:53:00.836Z</updated>
+  <updated>2020-06-27T18:00:17.705Z</updated>
   <id>https://pandalee.jp/</id>
   
   <author>
@@ -18,26 +18,30 @@
   
   <entry>
     <title>推荐的软件</title>
-    <link href="https://pandalee.jp/2020/06/28/recommended-softwares/"/>
-    <id>https://pandalee.jp/2020/06/28/recommended-softwares/</id>
+    <link href="https://pandalee.jp/2020/06/28/recommended-software/"/>
+    <id>https://pandalee.jp/2020/06/28/recommended-software/</id>
     <published>2020-06-27T17:43:01.000Z</published>
-    <updated>2020-06-27T17:53:00.836Z</updated>
+    <updated>2020-06-27T18:00:17.705Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="teambition"><a class="markdownIt-Anchor" href="#teambition"></a> Teambition</h1><p>团队协作、项目管理工具</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="项目管理类"><a class="markdownIt-Anchor" href="#项目管理类"></a> 项目管理类</h2><ul><li>Teambition</li></ul><h2 id="开发工具类"><a class="markdownIt-Anchor" href="#开发工具类"></a> 开发工具类</h2><ul><li>Jetbrains IDEs</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;teambition&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#teambition&quot;&gt;&lt;/a&gt; Teambition&lt;/h1&gt;
-&lt;p&gt;团队协作、项目管理工具&lt;/p&gt;
-
+        &lt;h2 id=&quot;项目管理类&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#项目管理类&quot;&gt;&lt;/a&gt; 项目管理类&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Teambition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;开发工具类&quot;&gt;&lt;a class=&quot;markdownIt
       
     
     </summary>
     
     
       <category term="software" scheme="https://pandalee.jp/tags/software/"/>
+    
+      <category term="recommended" scheme="https://pandalee.jp/tags/recommended/"/>
     
   </entry>
   
