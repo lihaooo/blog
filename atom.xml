@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Panda Lee</title>
+  
+  <subtitle>こんにちわ</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://pandalee.jp/"/>
+  <updated>2020-06-27T17:53:00.836Z</updated>
+  <id>https://pandalee.jp/</id>
+  
+  <author>
+    <name>Panda Lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>推荐的软件</title>
+    <link href="https://pandalee.jp/2020/06/28/recommended-softwares/"/>
+    <id>https://pandalee.jp/2020/06/28/recommended-softwares/</id>
+    <published>2020-06-27T17:43:01.000Z</published>
+    <updated>2020-06-27T17:53:00.836Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="teambition"><a class="markdownIt-Anchor" href="#teambition"></a> Teambition</h1><p>团队协作、项目管理工具</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;teambition&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#teambition&quot;&gt;&lt;/a&gt; Teambition&lt;/h1&gt;
+&lt;p&gt;团队协作、项目管理工具&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="software" scheme="https://pandalee.jp/tags/software/"/>
+    
+  </entry>
+  
+</feed>
